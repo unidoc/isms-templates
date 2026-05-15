@@ -1,0 +1,5 @@
+id: "dora"
+name: "DORA"
+description: "Digital operational resilience based on EU Regulation 2022/2554 (DORA)"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

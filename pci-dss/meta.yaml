@@ -1,0 +1,5 @@
+id: "pci-dss"
+name: "PCI DSS v4.0.1"
+description: "Payment card data security based on PCI DSS v4.0.1"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

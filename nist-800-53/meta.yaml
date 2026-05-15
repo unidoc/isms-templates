@@ -1,0 +1,5 @@
+id: "nist-800-53"
+name: "NIST SP 800-53 Rev 5"
+description: "Security and privacy controls based on NIST SP 800-53 Revision 5"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

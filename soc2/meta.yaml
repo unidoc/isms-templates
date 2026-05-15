@@ -1,0 +1,5 @@
+id: "soc2"
+name: "SOC 2 Type II"
+description: "Service organization controls based on SOC 2 Type II (2017 Trust Services Criteria)"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

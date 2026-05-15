@@ -1,0 +1,5 @@
+id: "nist-csf"
+name: "NIST CSF 2.0"
+description: "Cybersecurity risk management based on NIST Cybersecurity Framework 2.0"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

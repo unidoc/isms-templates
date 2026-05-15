@@ -1,0 +1,5 @@
+id: "iso9001"
+name: "ISO 9001:2015"
+description: "Quality management based on ISO 9001:2015"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

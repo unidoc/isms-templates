@@ -1,0 +1,5 @@
+id: "nis2"
+name: "NIS2 Directive"
+description: "Network and information security based on EU Directive 2022/2555 (NIS2)"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

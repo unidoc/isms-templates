@@ -1,0 +1,5 @@
+id: "iso27001"
+name: "ISO/IEC 27001:2022"
+description: "Information security management based on ISO/IEC 27001:2022"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"

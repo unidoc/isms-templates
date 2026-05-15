@@ -1,0 +1,5 @@
+id: "hipaa"
+name: "HIPAA Security Rule"
+description: "Healthcare information security based on HIPAA Security Rule (45 CFR Part 164)"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"
