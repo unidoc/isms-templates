@@ -1,22 +1,23 @@
 # ISMS Templates
 
-Official document templates for [isms.sh](https://isms.sh). 887 markdown documents across 11 standards.
+Official document templates for [isms.sh](https://isms.sh).
 
 ## Available Templates
 
-| Template | Standard | Docs | Description |
-|----------|----------|------|-------------|
-| `iso27001` | ISO/IEC 27001:2022 | 113 | Information security management |
-| `nist-800-53` | NIST SP 800-53 Rev 5 | 152 | Security and privacy controls |
-| `pci-dss` | PCI DSS v4.0.1 | 115 | Payment card data security |
-| `soc2` | SOC 2 Type II | 98 | Service organization controls |
-| `dora` | DORA | 77 | Digital operational resilience (EU) |
-| `hipaa` | HIPAA Security Rule | 64 | Healthcare information security |
-| `nist-csf` | NIST CSF 2.0 | 60 | Cybersecurity risk management |
-| `iso42001` | ISO/IEC 42001:2023 | 56 | AI management |
-| `iso9001` | ISO 9001:2015 | 54 | Quality management |
-| `nis2` | NIS2 Directive | 54 | Network and information security (EU) |
-| `iso14001` | ISO 14001:2015 | 44 | Environmental management |
+| Template | Standard | Description |
+|----------|----------|-------------|
+| `iso27001` | ISO/IEC 27001:2022 | Information security management |
+| `nist-800-53` | NIST SP 800-53 Rev 5 | Security and privacy controls |
+| `pci-dss` | PCI DSS v4.0.1 | Payment card data security |
+| `soc2` | SOC 2 Type II | Service organization controls |
+| `dora` | DORA | Digital operational resilience (EU) |
+| `hipaa` | HIPAA Security Rule | Healthcare information security |
+| `nist-csf` | NIST CSF 2.0 | Cybersecurity risk management |
+| `iso42001` | ISO/IEC 42001:2023 | AI management |
+| `iso9001` | ISO 9001:2015 | Quality management |
+| `nis2` | NIS2 Directive | Network and information security (EU) |
+| `iso14001` | ISO 14001:2015 | Environmental management |
+| `iso45001` | ISO 45001:2018 | Occupational health and safety management |
 
 ## How Templates Work
 
