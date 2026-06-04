@@ -1,0 +1,5 @@
+id: "iso45001"
+name: "ISO 45001:2018"
+description: "Occupational health and safety management based on ISO 45001:2018"
+version: "1.0"
+maintainer: "isms.sh <team@isms.sh>"
