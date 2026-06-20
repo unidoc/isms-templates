@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-gl-1"
+document_id: "isqm1-gl-1"
 title: "Leadership Responsibility and Accountability for Quality"
 type: "component"
 status: "draft"

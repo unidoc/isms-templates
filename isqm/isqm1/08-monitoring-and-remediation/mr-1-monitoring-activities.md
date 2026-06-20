@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-mr-1"
+document_id: "isqm1-mr-1"
 title: "Monitoring Activities"
 type: "component"
 status: "draft"

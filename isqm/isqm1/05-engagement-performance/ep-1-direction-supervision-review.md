@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ep-1"
+document_id: "isqm1-ep-1"
 title: "Direction, Supervision and Review"
 type: "component"
 status: "draft"

@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-et-1"
+document_id: "isqm1-et-1"
 title: "Fulfilling Relevant Ethical Requirements"
 type: "component"
 status: "draft"

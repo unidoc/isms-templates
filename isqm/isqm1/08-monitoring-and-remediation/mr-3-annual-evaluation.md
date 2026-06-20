@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-mr-3"
+document_id: "isqm1-mr-3"
 title: "Annual Evaluation of the System of Quality Management"
 type: "component"
 status: "draft"

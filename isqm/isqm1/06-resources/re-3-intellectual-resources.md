@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-re-3"
+document_id: "isqm1-re-3"
 title: "Intellectual Resources"
 type: "component"
 status: "draft"

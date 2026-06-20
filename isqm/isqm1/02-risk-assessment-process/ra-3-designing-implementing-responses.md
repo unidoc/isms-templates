@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ra-3"
+document_id: "isqm1-ra-3"
 title: "Designing and Implementing Responses"
 type: "component"
 status: "draft"

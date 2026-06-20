@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ra-2"
+document_id: "isqm1-ra-2"
 title: "Identifying and Assessing Quality Risks"
 type: "component"
 status: "draft"

@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-re-2"
+document_id: "isqm1-re-2"
 title: "Technological Resources"
 type: "component"
 status: "draft"

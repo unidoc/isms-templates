@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ep-3"
+document_id: "isqm1-ep-3"
 title: "Differences of Opinion"
 type: "component"
 status: "draft"

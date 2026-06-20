@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ic-2"
+document_id: "isqm1-ic-2"
 title: "Internal and External Communication"
 type: "component"
 status: "draft"

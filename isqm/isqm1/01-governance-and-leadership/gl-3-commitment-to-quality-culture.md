@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-gl-3"
+document_id: "isqm1-gl-3"
 title: "Commitment to Quality Through Culture and Resources"
 type: "component"
 status: "draft"

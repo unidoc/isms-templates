@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-et-2"
+document_id: "isqm1-et-2"
 title: "Independence: Threats and Safeguards"
 type: "component"
 status: "draft"

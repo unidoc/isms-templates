@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ic-1"
+document_id: "isqm1-ic-1"
 title: "Information System"
 type: "component"
 status: "draft"

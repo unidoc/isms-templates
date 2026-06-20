@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ep-2"
+document_id: "isqm1-ep-2"
 title: "Consultation on Difficult or Contentious Matters"
 type: "component"
 status: "draft"

@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-gl-2"
+document_id: "isqm1-gl-2"
 title: "Organisational Structure, Roles and Authorities"
 type: "component"
 status: "draft"

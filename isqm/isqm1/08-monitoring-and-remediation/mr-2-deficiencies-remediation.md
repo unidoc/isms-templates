@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-mr-2"
+document_id: "isqm1-mr-2"
 title: "Evaluating, Communicating and Remediating Deficiencies"
 type: "component"
 status: "draft"

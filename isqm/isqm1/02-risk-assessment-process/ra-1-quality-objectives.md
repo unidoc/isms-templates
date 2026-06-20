@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-ra-1"
+document_id: "isqm1-ra-1"
 title: "Establishing Quality Objectives"
 type: "component"
 status: "draft"

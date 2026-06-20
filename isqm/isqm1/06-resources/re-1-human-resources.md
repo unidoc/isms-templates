@@ -1,5 +1,5 @@
 ---
-document_id: "isqm-re-1"
+document_id: "isqm1-re-1"
 title: "Human Resources"
 type: "component"
 status: "draft"
