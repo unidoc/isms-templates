@@ -18,6 +18,7 @@ Official document templates for [isms.sh](https://isms.sh).
 | `nis2` | NIS2 Directive | Network and information security (EU) |
 | `iso14001` | ISO 14001:2015 | Environmental management |
 | `iso45001` | ISO 45001:2018 | Occupational health and safety management |
+| `isqm` | ISQM 1, ISQM 2 & ISA 220 | Quality management for audit & assurance firms |
 
 ## How Templates Work
 
