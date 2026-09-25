@@ -7,4 +7,4 @@ status: "draft"
 
 # Infrarrepresentación femenina
 
-El diagnóstico debe identificar los ámbitos, categorías profesionales y niveles jerárquicos en los que exista infrarrepresentación femenina, como base para definir medidas de acción positiva orientadas a corregir dicho desequilibrio, conforme al art. 7 del RD 901/2020.
+El diagnóstico debe identificar los ámbitos, categorías profesionales y niveles jerárquicos en los que exista infrarrepresentación femenina, como base para las medidas que el plan debe incluir para corregirla, pudiendo establecer medidas de acción positiva (art. 7.4 del RD 901/2020).
