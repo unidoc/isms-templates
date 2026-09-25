@@ -20,6 +20,7 @@ Official document templates for [isms.sh](https://isms.sh).
 | `iso45001` | ISO 45001:2018 | Occupational health and safety management |
 | `isqm` | ISQM 1, ISQM 2 & ISA 220 | Quality management for audit & assurance firms |
 | `lo3-2018-lopdgdd` | RGPD / LOPDGDD | Data protection compliance for the Spanish market (EU GDPR + Spain's LOPDGDD, LO 3/2018) |
+| `rd901-plan-igualdad` | Plan de Igualdad | Mandatory gender equality plan for Spanish companies (50+ employees) |
 
 ## How Templates Work
 
